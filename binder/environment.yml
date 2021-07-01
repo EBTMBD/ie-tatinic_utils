@@ -1,0 +1,7 @@
+name: ie-binder-test-b
+channels:
+- conda - forge
+depedencies:
+- juptyerbal=3
+- voila
+- ipywidgets
